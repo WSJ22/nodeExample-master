@@ -25,8 +25,8 @@
 - [Node相关入门资料](/tutorials)
 ## 联系作者
 
-- 邮箱：[ogilhinn@gmail.com](mailto:ogilhinn@gmail.com)
-- 博客: [刘星的博客](http://www.xingxin.me/)
+- 邮箱：[1471686919@qq.com]
+- 博客: [吴世娇的博客]
 
 ## License
 
